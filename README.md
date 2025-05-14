@@ -25,6 +25,10 @@ Emily de Oliveira Santos (she/her) is a mathematician and type designer based on
 ## Dedication
 This typeface is dedicated to Juca, Nonami, Mia and Violeta. Each and every one of you forever changed my life for the better, and I wouldn't be here if it weren't for you.
 
+## Supporters
+
+This project is currently supported by the following people: Isaac Elenbaas, Esther H., and Alyssa Renata. Their support is helping me build a more stable income, which would ensure I’m able to keep working on Hundar to completion. I’m immen­se­ly gra­te­ful for their support!
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
