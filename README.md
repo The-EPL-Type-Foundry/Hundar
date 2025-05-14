@@ -1,6 +1,6 @@
-# Lazy Darwin
+# Hundar
 
-Lazy Darwin is a free and open-source ty­pe­fa­ce intended for book and article writing, with a particular focus on aca­de­mic and scientific usage. The typeface aims to cover a very wide range of languages, as well as provide support for specialist usage in subjects like medievalist studies and linguistics. Lazy Darwin will also come in several different optical sizes, as well as have an accompanying math font.
+Hundar is a free and open-source ty­pe­fa­ce intended for book and article writing, with a particular focus on aca­de­mic and scientific usage. The typeface aims to cover a very wide range of languages, as well as provide support for specialist usage in subjects like medievalist studies and linguistics. Hundar will also come in several different optical sizes, as well as have an accompanying math font.
 
 ![Sample Image](documentation/logo.png)
 
@@ -14,7 +14,7 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions — look at https://The-EPL-Type-Foundry.github.io/EPL-Darwin.git.
+The proof files and QA tests are also available automatically via GitHub Actions — look at https://The-EPL-Type-Foundry.github.io/Hundar.git.
 
 ## About the Author
 
