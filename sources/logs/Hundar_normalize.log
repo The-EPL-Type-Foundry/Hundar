@@ -1,40 +1,40 @@
-2025-05-23 00:21:57 Progress: Running:  /usr/local/bin/psfnormalize /Users/emily_tmf/Hundar/sources/Hundar.ufo
-2025-05-23 00:21:57 Progress: Reading UFO: /Users/emily_tmf/Hundar/sources/Hundar.ufo
-2025-05-23 00:21:57 Progress: Checking fontinfo.plist metadata
-2025-05-23 00:21:57 Warning:  Required fields missing from fontinfo.plist: ['copyright', 'openTypeNameManufacturer']
-2025-05-23 00:21:57 Warning:  Checking will continue with values of 'Dummy' or 999 for missing fields
-2025-05-23 00:21:57 Warning:  copyright is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeNameDescription is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeNameDesigner is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeNameDesignerURL is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeNameLicense is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeNameLicenseURL is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeNameManufacturerURL is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeOS2CodePageRanges is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeOS2UnicodeRanges is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeOS2VendorID is missing from fontinfo.plist
-2025-05-23 00:21:57 Warning:  openTypeOS2Type would be added  New value: []
-2025-05-23 00:21:57 Warning:  openTypeNameUniqueID would be added  New value: Dummy: Hundar Regula...
-2025-05-23 00:21:57 Warning:  openTypeNameVersion would be added  New value: Version 0.1
-2025-05-23 00:21:57 Warning:  openTypeHheaAscender would be updated  Old value: 854, new value: 658
-2025-05-23 00:21:57 Warning:  openTypeHheaDescender would be updated  Old value: -326, new value: -280
-2025-05-23 00:21:57 Warning:  openTypeNamePreferredFamilyName would be added  New value: Hundar
-2025-05-23 00:21:57 Warning:  openTypeOS2TypoAscender would be updated  Old value: 854, new value: 658
-2025-05-23 00:21:57 Warning:  openTypeOS2TypoDescender would be updated  Old value: -326, new value: -280
-2025-05-23 00:21:57 Warning:  italicAngle would be removed since it is 0  Old value: 0
-2025-05-23 00:21:57 Warning:  versionMajor is 0
-2025-05-23 00:21:57 Progress: Checking lib.plist metadata
-2025-05-23 00:21:57 Warning:  com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment would be added  New value: True
-2025-05-23 00:21:57 Warning:  com.schriftgestaltung.customParameter.GSFont.disablesLastChange would be added  New value: True
-2025-05-23 00:21:57 Warning:  com.schriftgestaltung.customParameter.GSFont.useNiceNames should normally be False; currently missing
-2025-05-23 00:21:57 Warning:  com.schriftgestaltung.disablesAutomaticAlignment would be deleted - obsolete key Old value: False
-2025-05-23 00:21:57 Warning:  com.schriftgestaltung.DisplayStrings would be deleted - obsolete key Old value: ['A/A.001 \nB/B.001 ...
-2025-05-23 00:21:57 Warning:  com.schriftgestaltung.useNiceNames would be deleted - obsolete key Old value: True
-2025-05-23 00:21:57 Progress: Check & fix results:- Errors: 0, Changes to make: 14, Other warnings: 14
-2025-05-23 00:21:57 Progress: See log file for details
-2025-05-23 00:21:57 Progress: **** Since some required fields were missing, checkfix=fix would fail
-2025-05-23 00:21:57 Progress: Backing up input font to /Users/emily_tmf/Hundar/sources/backups/Hundar.ufo.1~
-2025-05-23 00:21:57 Progress: Processing font for output
-2025-05-23 00:21:57 Progress: Writing font to /Users/emily_tmf/Hundar/sources/Hundar.ufo
-2025-05-23 00:21:57 Progress: Command completed with 0 errors and 28 warnings
-2025-05-23 00:21:57 Progress: See log file for warning messages or rerun with '-p scrlevel=w'
+2025-05-23 00:29:12 Progress: Running:  /usr/local/bin/psfnormalize /Users/emily_tmf/Hundar/sources/Hundar.ufo
+2025-05-23 00:29:12 Progress: Reading UFO: /Users/emily_tmf/Hundar/sources/Hundar.ufo
+2025-05-23 00:29:12 Progress: Checking fontinfo.plist metadata
+2025-05-23 00:29:12 Warning:  Required fields missing from fontinfo.plist: ['copyright', 'openTypeNameManufacturer']
+2025-05-23 00:29:12 Warning:  Checking will continue with values of 'Dummy' or 999 for missing fields
+2025-05-23 00:29:12 Warning:  copyright is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeNameDescription is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeNameDesigner is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeNameDesignerURL is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeNameLicense is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeNameLicenseURL is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeNameManufacturerURL is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeOS2CodePageRanges is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeOS2UnicodeRanges is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeOS2VendorID is missing from fontinfo.plist
+2025-05-23 00:29:12 Warning:  openTypeOS2Type would be added  New value: []
+2025-05-23 00:29:12 Warning:  openTypeNameUniqueID would be added  New value: Dummy: Hundar Regula...
+2025-05-23 00:29:12 Warning:  openTypeNameVersion would be added  New value: Version 0.1
+2025-05-23 00:29:12 Warning:  openTypeHheaAscender would be updated  Old value: 854, new value: 658
+2025-05-23 00:29:12 Warning:  openTypeHheaDescender would be updated  Old value: -326, new value: -280
+2025-05-23 00:29:12 Warning:  openTypeNamePreferredFamilyName would be added  New value: Hundar
+2025-05-23 00:29:12 Warning:  openTypeOS2TypoAscender would be updated  Old value: 854, new value: 658
+2025-05-23 00:29:12 Warning:  openTypeOS2TypoDescender would be updated  Old value: -326, new value: -280
+2025-05-23 00:29:12 Warning:  italicAngle would be removed since it is 0  Old value: 0
+2025-05-23 00:29:12 Warning:  versionMajor is 0
+2025-05-23 00:29:12 Progress: Checking lib.plist metadata
+2025-05-23 00:29:12 Warning:  com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment would be added  New value: True
+2025-05-23 00:29:12 Warning:  com.schriftgestaltung.customParameter.GSFont.disablesLastChange would be added  New value: True
+2025-05-23 00:29:12 Warning:  com.schriftgestaltung.customParameter.GSFont.useNiceNames should normally be False; currently missing
+2025-05-23 00:29:12 Warning:  com.schriftgestaltung.disablesAutomaticAlignment would be deleted - obsolete key Old value: False
+2025-05-23 00:29:12 Warning:  com.schriftgestaltung.DisplayStrings would be deleted - obsolete key Old value: ['A/A.001 \nB/B.001 ...
+2025-05-23 00:29:12 Warning:  com.schriftgestaltung.useNiceNames would be deleted - obsolete key Old value: True
+2025-05-23 00:29:12 Progress: Check & fix results:- Errors: 0, Changes to make: 14, Other warnings: 14
+2025-05-23 00:29:12 Progress: See log file for details
+2025-05-23 00:29:12 Progress: **** Since some required fields were missing, checkfix=fix would fail
+2025-05-23 00:29:12 Progress: Backing up input font to /Users/emily_tmf/Hundar/sources/backups/Hundar.ufo.2~
+2025-05-23 00:29:12 Progress: Processing font for output
+2025-05-23 00:29:12 Progress: Writing font to /Users/emily_tmf/Hundar/sources/Hundar.ufo
+2025-05-23 00:29:12 Progress: Command completed with 0 errors and 28 warnings
+2025-05-23 00:29:12 Progress: See log file for warning messages or rerun with '-p scrlevel=w'
