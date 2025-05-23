@@ -1,8 +1,8 @@
 ---
 sources:
-  - LazyDarwin.ufo
+  - Hundar.ufo
 buildOTF: true
-familyName: "Lazy Darwin"
+familyName: "Hundar"
 stat: # STAT config at the top level
   - name: Weight
     tag: wght
