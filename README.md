@@ -38,7 +38,7 @@ This typeface is dedicated to Juca, Nonami, Mia and Violeta. Each and every one 
 
 ## Supporters
 
-This project is currently supported by the following people: Isaac Elenbaas, Esther H., and Alyssa Renata. Their support is helping me build a more stable income, which would ensure I’m able to keep working on Hundar to completion. I’m immen­se­ly gra­te­ful for their support!
+This project is currently supported by the following people: Alyssa Renata, Esther H., Isaac Elenbaas, and Jayanth. Their support is helping me build a more stable income, enabling me to devote more time to Hundar (rather than to other work to make ends meet). Their support is also helping ensure I’m able to keep working on Hundar to completion, and I’m immensely grateful to them for it!
 
 ## License
 
