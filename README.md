@@ -1,7 +1,5 @@
 # Hundar
 
-[Project Website](https://hundartypeface.com/)
-
 [![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
 [![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
 [![][GF Profile]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
@@ -14,6 +12,8 @@
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Hundar is a free and open-source ty­pe­fa­ce intended for book and article writing, with a particular focus on aca­de­mic and scientific usage. The typeface aims to cover a very wide range of languages, as well as provide support for specialist usage in subjects like medievalist studies and linguistics. Hundar will also come in several different optical sizes, as well as have an accompanying math font.
+
+Check out the project website for more information: https://hundartypeface.com/
 
 ![Sample Image](documentation/logo.png)
 
