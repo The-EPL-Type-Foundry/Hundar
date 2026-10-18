@@ -33,9 +33,24 @@ Emily de Oliveira Santos (she/her) is a mathematician and type designer based on
 - [Webpage](https://topological-modular-forms.github.io/)
 - [Email](mailto:emily.de.oliveira.santos.tmf@gmail.com)
 
+## Dedication
+This typeface is dedicated to Juca, Julia, Nonami, Mia and Violeta. Each and every one of you forever changed my life for the better, and I wouldn't be here if it weren't for you.
+
 ## Supporters
 
-This project is currently supported by the following people: Alyssa Renata, Esther H., Isaac Elenbaas, and Jayanth. I’m immensely grateful to them for it!
+This project has been supported by the following people, to whom I'm immensely greateful:
+- Alyssa Renata
+- Esther H.
+- Isaac Elenbaas
+- Jayanth
+- golra
+- Will
+- shiny
+- Hal Motley
+- gatesvp
+- Estelle
+- Eli Heuer
+- + anonymous supporters
 
 ## License
 
