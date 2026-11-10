@@ -49,7 +49,7 @@ This font repository structure is inspired by [Unified Font Repository v0.3](htt
 
 ## Supporters
 
-This project has been supported by the following people, to whom I'm immensely greateful:
+This project has been supported by the following people (to whom I'm immensely grateful!):
 - Alyssa Renata
 - Esther H.
 - Isaac Elenbaas
@@ -61,4 +61,5 @@ This project has been supported by the following people, to whom I'm immensely g
 - gatesvp
 - Estelle
 - Eli Heuer
+- Luigi Mario
 - And anonymous supporters
